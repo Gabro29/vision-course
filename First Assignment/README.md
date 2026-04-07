@@ -19,6 +19,7 @@ main_dir:
 The script is designed to automatically analyze the structure of the `DATASET` folder, assuming it contains two subfolders: `test` and `val`. The `GT.csv` file is also assumed to be located within the `DATASET` folder.
 
 The script contains a series of modular functions that can be used independently. You can read the doc string to understand what each function does, or use the help method --> help(method).
+
 ---
 
 ## Example of Use
